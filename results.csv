@@ -1,0 +1,473 @@
+subject_id,PCA,PCA_Laterality,Cerebellum,Cerebellum_Laterality,Midbrain,Thalamus,Thalamus_Laterality
+3338494,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+4405376,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+5087200,0,Not Affected,1.0,Right,0,0,Not Affected
+9532194,1,Left,0.0,Not Affected,0,0,Not Affected
+20089560,0,Not Affected,0.0,Not Affected,1,1,Left
+31086642,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+33146592,1,Left,1.0,Bilateral,0,1,Left
+38671872,0,Not Affected,1.0,Left,0,0,Not Affected
+42072920,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+59279521,0,Not Affected,0.0,Not Affected,0,1,Left
+77111433,1,Left,0.0,Not Affected,0,0,Not Affected
+85812790,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+97290763,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+1.87E+67,1,Right,0.0,Not Affected,0,1,Right
+9.996E+186,0,Not Affected,0.0,Not Affected,0,0,Not Affected
+003aa3e8,0,Not Affected,0.0,Not Affected,0,1,Left
+0214eb85,0,Not Affected,1.0,Right,0,0,Not Affected
+035bf9fe,0,Not Affected,1.0,Bilateral,0,0,Not Affected
+037cfba0,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+0559cdbf,0,Not Affected,0.0,Not Affected,1,1,Left
+05a971ae,1,Right,0.0,Not Affected,0,1,Right
+064c88d2,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+06b8df2d,0,Not Affected,0.0,Not Affected,0,1,Right
+075de854,0,Not Affected,1.0,Bilateral,0,0,Not Affected
+0765dad4,1,Right,0.0,Not Affected,0,0,Not Affected
+076f429c,1,Left,0.0,Not Affected,0,0,Not Affected
+081c82ae,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+087f4344,0,Not Affected,1.0,Right,0,0,Not Affected
+0ab4fbd5,0,Not Affected,1.0,Bilateral,0,0,Not Affected
+0ab9a161,0,Not Affected,0.0,Not Affected,0,1,Right
+0ac9dac1,0,Not Affected,1.0,Bilateral,0,0,Not Affected
+0b379aa0,0,Not Affected,0.0,Not Affected,0,1,Left
+0bf8150e,0,Not Affected,0.0,Not Affected,0,0,Not Affected
+0c1f7a63,1,Left,0.0,Not Affected,0,0,Not Affected
+0c3e7acd,0,Not Affected,1.0,Bilateral,0,0,Not Affected
+0c55a5e3,0,Not Affected,1.0,Left,0,0,Not Affected
+0e2087e0,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+0e5f0031,0,Not Affected,1.0,Right,0,0,Not Affected
+0fb718db,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+0fdbfe12,1,Right,0.0,Not Affected,0,1,Right
+10552b3e,1,Left,0.0,Not Affected,0,0,Not Affected
+112154f0,0,Not Affected,0.0,Not Affected,0,1,Left
+121ac7cf,0,Not Affected,0.0,Not Affected,1,1,Right
+145b3189,1,Right,0.0,Not Affected,0,1,Right
+14b03c6c,1,Right,0.0,Not Affected,0,0,Not Affected
+14c88249,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+14d11c40,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+1502f54f,0,Not Affected,1.0,Bilateral,0,0,Not Affected
+153c8bcb,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+17d0c3bb,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+195e3828,1,Left,0.0,Not Affected,0,0,Not Affected
+1a940e32,0,Not Affected,0.0,Not Affected,0,0,Not Affected
+1b18e0f4,1,Right,0.0,Not Affected,0,1,Right
+1b42977d,1,Right,0.0,Not Affected,0,0,Not Affected
+1b8ee3de,0,Not Affected,1.0,Right,0,0,Not Affected
+1cd53804,1,Right,0.0,Not Affected,0,0,Not Affected
+1d25bec4,1,Right,0.0,Not Affected,0,0,Not Affected
+1de4f8a5,1,Left,0.0,Not Affected,0,1,Left
+1e79d849,1,Left,0.0,Not Affected,0,1,Left
+1f7f6868,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+201a97a0,0,Not Affected,0.0,Not Affected,0,1,Left
+202d8478,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+20af883f,1,Left,0.0,Not Affected,0,0,Not Affected
+230a11e8,1,Left,0.0,Not Affected,0,1,Left
+2389f706,0,Not Affected,0.0,Not Affected,1,1,Left
+26a98967,0,Not Affected,1.0,Left,0,0,Not Affected
+26dd9d2b,1,Right,0.0,Not Affected,0,0,Not Affected
+272c9d88,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+27f3a962,0,Not Affected,1.0,Left,0,0,Not Affected
+27fa1418,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+288c07a8,1,Left,0.0,Not Affected,0,0,Not Affected
+2a48e893,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+2a7d9574,1,Right,0.0,Not Affected,0,0,Not Affected
+2a83c43e,1,Right,0.0,Not Affected,0,1,Right
+2ae1ed8f,1,Left,1.0,Bilateral,0,1,Left
+2b191b6c,0,Not Affected,0.0,Not Affected,0,0,Not Affected
+2d956553,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+2de95c70,0,Not Affected,1.0,Right,0,0,Not Affected
+31c90fa0,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+31e2f892,0,Not Affected,1.0,Right,0,0,Not Affected
+32d98379,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+3360b272,0,Not Affected,1.0,Right,0,0,Not Affected
+33d4ff37,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+3407de6b,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+341196b9,1,Right,1.0,Right,1,1,Right
+34f74fc7,1,Right,0.0,Not Affected,0,1,Right
+3578c27d,0,Not Affected,0.0,Not Affected,0,1,Left
+35a6f479,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+364ccda7,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+36bed8b6,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+371f040a,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+37262b46,0,Not Affected,0.0,Not Affected,0,1,Right
+37ebb13f,0,Not Affected,0.0,Not Affected,0,1,Left
+3888162f,0,Not Affected,1.0,Bilateral,0,0,Not Affected
+399f9a24,0,Not Affected,1.0,Left,0,0,Not Affected
+39acbda7,0,Not Affected,1.0,Right,0,0,Not Affected
+39ee4c4e,1,Right,0.0,Not Affected,0,1,Right
+39f5dc18,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+39fd4a7b,1,Left,0.0,Not Affected,0,0,Not Affected
+3a75d13f,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+3a82c491,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+3b225ffd,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+3b237cfe,1,Left,0.0,Not Affected,0,1,Left
+3bbac62d,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+3bf328db,0,Not Affected,1.0,Right,0,0,Not Affected
+3d4c92ac,1,Right,0.0,Not Affected,0,1,Right
+3da32e7b,0,Not Affected,0.0,Not Affected,0,1,Right
+3db04741,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+3f011585,0,Not Affected,0.0,Not Affected,0,1,Left
+3f382255,0,Not Affected,0.0,Not Affected,0,1,Left
+405c44dc,0,Not Affected,0.0,Not Affected,1,1,Left
+4078a700,0,Not Affected,0.0,Not Affected,0,0,Not Affected
+407e350c,0,Not Affected,1.0,Left,0,0,Not Affected
+40e204b5,0,Not Affected,0.0,Not Affected,0,0,Not Affected
+423509d7,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+42d8b931,0,Not Affected,0.0,Not Affected,0,0,Not Affected
+42f7ee7b,0,Not Affected,1.0,Right,0,0,Not Affected
+43aa3f56,0,Not Affected,1.0,Right,0,0,Not Affected
+444495ee,0,Not Affected,1.0,Right,0,0,Not Affected
+44cdd587,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+45f34f6d,0,Not Affected,0.0,Not Affected,0,0,Not Affected
+465b3188,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+479b75ad,1,Right,0.0,Not Affected,0,0,Not Affected
+488c85f7,1,Right,1.0,Right,0,0,Not Affected
+4901bfee,1,Right,0.0,Not Affected,0,1,Right
+49adcd15,0,Not Affected,0.0,Not Affected,0,1,Right
+49d74866,0,Not Affected,1.0,Bilateral,1,0,Not Affected
+4a961b54,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+4acee8f3,0,Not Affected,0.0,Not Affected,0,1,Right
+4ad71888,0,Not Affected,1.0,Left,0,0,Not Affected
+4b8c555d,0,Not Affected,0.0,Not Affected,0,0,Not Affected
+4bfe04b9,0,Not Affected,0.0,Not Affected,0,0,Not Affected
+4c9d81d5,0,Not Affected,1.0,Right,0,0,Not Affected
+4ccc667d,1,Right,0.0,Not Affected,0,0,Not Affected
+4d3c3223,0,Not Affected,0.0,Not Affected,0,0,Not Affected
+4d42e339,0,Not Affected,1.0,Left,0,0,Not Affected
+4ed02820,0,Not Affected,0.0,Not Affected,0,1,Left
+4f4eb0ca,1,Left,0.0,Not Affected,0,0,Not Affected
+4f8f4dde,0,Not Affected,1.0,Left,0,0,Not Affected
+4fd66233,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+503e9b50,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+50447c2d,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+507f4a0b,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+5097f0e8,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+51441fc3,1,Right,0.0,Not Affected,0,0,Not Affected
+51b5353b,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+520adcf6,0,Not Affected,0.0,Not Affected,0,0,Not Affected
+5456eb09,1,Right,0.0,Not Affected,0,1,Right
+5495e0d9,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+550cf69c,0,Not Affected,0.0,Not Affected,0,1,Left
+564bf037,0,Not Affected,0.0,Not Affected,0,0,Not Affected
+577313c6,0,Not Affected,0.0,Not Affected,0,0,Not Affected
+5807df43,0,Not Affected,1.0,Bilateral,0,0,Not Affected
+5a373df9,0,Not Affected,0.0,Not Affected,0,0,Not Affected
+5abd676f,0,Not Affected,0.0,Not Affected,1,1,Right
+5b322a8f,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+5b4d3187,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+5bdf363a,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+5c40b0c5,0,Not Affected,1.0,Right,0,0,Not Affected
+5c7f5fb5,0,Not Affected,1.0,Right,0,0,Not Affected
+5c7fb215,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+5c9098c7,0,Not Affected,0.0,Not Affected,0,1,Right
+5f076773,1,Left,0.0,Not Affected,0,1,Left
+60cbc7e1,1,Right,1.0,Right,0,1,Right
+64da727f,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+651dcdb0,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+6573140a,0,Not Affected,1.0,Right,0,0,Not Affected
+65daa4b3,0,Not Affected,0.0,Not Affected,0,1,Left
+6640e7e3,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+664d2bbc,0,Not Affected,1.0,Right,1,1,Right
+677e5885,0,Not Affected,1.0,Right,0,0,Not Affected
+6821c203,0,Not Affected,0.0,Not Affected,0,1,Left
+6917f3b9,0,Not Affected,0.0,Not Affected,0,1,Left
+691d9f5d,0,Not Affected,0.0,Not Affected,0,1,Left
+69ced599,0,Not Affected,0.0,Not Affected,1,1,Right
+6abf56a2,1,Left,0.0,Not Affected,0,1,Left
+6ac4eaa3,0,Not Affected,0.0,Not Affected,0,1,Left
+6cbb38ff,1,Right,0.0,Not Affected,0,1,Right
+6cbfe179,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+6d02896d,0,Not Affected,1.0,Left,0,0,Not Affected
+6e2c7999,0,Not Affected,1.0,Right,0,0,Not Affected
+6e72ce6b,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+6fef3568,1,Left,0.0,Not Affected,0,0,Not Affected
+7074120b,1,Left,0.0,Not Affected,0,0,Not Affected
+7136e4b0,1,Right,1.0,Right,0,1,Right
+717d1b8a,0,Not Affected,0.0,Not Affected,0,1,Left
+71aae6c7,1,Left,1.0,Bilateral,1,0,Not Affected
+7209d125,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+72bac1c0,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+759529a3,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+75f41e01,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+76a20cb9,0,Not Affected,0.0,Not Affected,0,0,Not Affected
+774888d7,0,Not Affected,0.0,Not Affected,0,1,Right
+777af95b,0,Not Affected,0.0,Not Affected,1,1,Right
+77a4ea51,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+78a57760,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+78cd42d2,0,Not Affected,1.0,Right,0,0,Not Affected
+7902bd3b,1,Right,0.0,Not Affected,0,0,Not Affected
+7964c2ef,0,Not Affected,0.0,Not Affected,0,1,Left
+7a50f5a6,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+7b82fc04,0,Not Affected,0.0,Not Affected,0,1,Right
+7d83c834,0,Not Affected,0.0,Not Affected,0,1,Right
+7d9682d2,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+7e11fb67,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+7e187ecb,0,Not Affected,0.0,Not Affected,0,0,Not Affected
+7e1c8c87,0,Not Affected,0.0,Not Affected,0,1,Left
+803a6aff,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+80eaa984,0,Not Affected,0.0,Not Affected,0,1,Left
+82c0b604,1,Right,0.0,Not Affected,0,1,Right
+837e45ad,0,Not Affected,1.0,Right,0,0,Not Affected
+849730c2,0,Not Affected,0.0,Not Affected,0,1,Right
+84c956cb,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+857f3d02,1,Left,0.0,Not Affected,0,1,Left
+85e97afe,0,Not Affected,0.0,Not Affected,0,0,Not Affected
+8703a055,0,Not Affected,0.0,Not Affected,0,0,Not Affected
+871e75e1,0,Not Affected,0.0,Not Affected,0,1,Left
+87c155d2,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+8920e489,0,Not Affected,0.0,Not Affected,0,1,Left
+8961c16a,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+8a67e6c6,0,Not Affected,0.0,Not Affected,0,1,Right
+8aa323e5,0,Not Affected,0.0,Not Affected,1,1,Left
+8ab45cb6,1,Right,0.0,Not Affected,0,0,Not Affected
+8b88a7e7,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+8bd72ace,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+8c61cdf7,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+8d1de74d,1,Right,0.0,Not Affected,0,0,Not Affected
+8e4537d5,0,Not Affected,1.0,Left,0,0,Not Affected
+8ef0cbf4,1,Left,0.0,Not Affected,0,0,Not Affected
+8f708632,0,Not Affected,0.0,Not Affected,0,0,Not Affected
+8f728633,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+903df716,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+928dd3c7,1,Left,0.0,Not Affected,0,0,Not Affected
+92abbe68,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+93b421e9,0,Not Affected,0.0,Not Affected,0,1,Right
+96b49874,1,Right,0.0,Not Affected,0,1,Right
+96e09d3e,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+96e2b32f,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+96f7ac4f,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+98b50e11,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+991af56e,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+9923a4e5,0,Not Affected,0.0,Not Affected,1,1,Left
+9936be11,1,Left,0.0,Not Affected,0,1,Left
+9adca7b5,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+9cb9b7f0,1,Left,0.0,Not Affected,0,1,Left
+9cbb278a,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+9eac10b6,1,Left,0.0,Not Affected,0,0,Not Affected
+9eb01e66,1,Right,0.0,Not Affected,0,0,Not Affected
+9f922bbb,0,Not Affected,1.0,Left,0,0,Not Affected
+9fa6f8d6,0,Not Affected,0.0,Not Affected,0,0,Not Affected
+9fe11003,0,Not Affected,1.0,Left,0,0,Not Affected
+9ffa5aec,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+a0841d08,0,Not Affected,1.0,Bilateral,1,0,Not Affected
+a25252ba,0,Not Affected,0.0,Not Affected,0,1,Left
+a2577e70,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+a2c52893,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+a388b5b5,0,Not Affected,0.0,Not Affected,0,1,Left
+a38ca77f,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+a3f9e2e7,1,Right,0.0,Not Affected,0,0,Not Affected
+a443ca3a,1,Right,0.0,Not Affected,0,0,Not Affected
+a4bc15e7,0,Not Affected,1.0,Right,0,0,Not Affected
+a5274819,0,Not Affected,0.0,Not Affected,1,1,Right
+a53b50d6,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+a63bc326,1,Left,0.0,Not Affected,0,0,Not Affected
+a642dbbf,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+a71227fe,1,Left,0.0,Not Affected,0,0,Not Affected
+a7348730,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+a7b4267f,1,Right,0.0,Not Affected,0,1,Right
+a849b747,1,Right,0.0,Not Affected,0,1,Right
+a8b7eb7e,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+a8db4a17,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+a94fe86d,0,Not Affected,0.0,Not Affected,0,0,Not Affected
+a97af0f3,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+a9e9794d,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+aa3ee6f6,0,Not Affected,1.0,Left,0,0,Not Affected
+ab4dc5d9,0,Not Affected,0.0,Not Affected,0,1,Left
+ab7ebfd1,1,Right,0.0,Not Affected,0,0,Not Affected
+ab9ef73d,0,Not Affected,1.0,Right,0,0,Not Affected
+abbbcd34,0,Not Affected,0.0,Not Affected,0,1,Right
+ae17fcb5,1,Right,0.0,Not Affected,0,1,Right
+ae2718a4,0,Not Affected,0.0,Not Affected,0,1,Right
+ae66976a,1,Right,0.0,Not Affected,0,0,Not Affected
+ae6c78cd,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+b040c11a,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+b24d9e9b,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+b50d0657,1,Left,0.0,Not Affected,0,0,Not Affected
+b5c889b9,0,Not Affected,1.0,Right,1,0,Not Affected
+b7772857,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+b83badcf,0,Not Affected,1.0,Right,0,0,Not Affected
+b84088d7,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+ba13a288,1,Right,1.0,Right,0,0,Not Affected
+bab55b95,0,Not Affected,0.0,Not Affected,0,1,Left
+bab69d5c,0,Not Affected,1.0,Right,0,0,Not Affected
+bb1ac904,1,Right,1.0,Right,0,0,Not Affected
+bc7922c3,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+bcdeb6a8,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+bcf215d6,0,Not Affected,0.0,Not Affected,0,1,Right
+bfa286b1,0,Not Affected,1.0,Bilateral,0,0,Not Affected
+bfd7f24e,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+bffb21b9,1,Left,1.0,Left,0,0,Not Affected
+c0c22f6f,0,Not Affected,0.0,Not Affected,0,0,Not Affected
+c160c49f,0,Not Affected,1.0,Right,0,0,Not Affected
+c2270b37,1,Left,0.0,Not Affected,0,1,Left
+c300972f,0,Not Affected,1.0,Right,0,0,Not Affected
+c320d80b,1,Left,0.0,Not Affected,0,0,Not Affected
+c36790ad,1,Left,0.0,Not Affected,0,0,Not Affected
+c3707e4e,1,Right,0.0,Not Affected,0,1,Right
+c3cf236d,1,Left,0.0,Not Affected,0,0,Not Affected
+c4c5a0cf,0,Not Affected,0.0,Not Affected,0,1,Right
+c6bfebd4,0,Not Affected,0.0,Not Affected,0,1,Right
+c78d5994,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+c794a56e,1,Right,0.0,Not Affected,0,1,Right
+c7c64eef,1,Right,0.0,Not Affected,0,1,Right
+c89c3dea,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+c8bb801f,0,Not Affected,1.0,Left,0,0,Not Affected
+c9bbb1fb,1,Left,0.0,Not Affected,0,0,Not Affected
+c9e53396,0,Not Affected,0.0,Not Affected,1,1,Right
+caa6cc15,1,Left,0.0,Not Affected,0,1,Left
+cb6f1df7,0,Not Affected,0.0,Not Affected,0,1,Right
+cb9a3370,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+cc372cfb,0,Not Affected,0.0,Not Affected,0,1,Right
+cc6b6ecc,0,Not Affected,0.0,Not Affected,1,1,Right
+ccff49b6,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+cd9e72bf,0,Not Affected,0.0,Not Affected,0,1,Right
+ce48dcfe,0,Not Affected,1.0,Left,0,0,Not Affected
+cf5d4ee9,0,Not Affected,0.0,Not Affected,0,1,Left
+cf6d4cf4,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+cf814dd2,0,Not Affected,0.0,Not Affected,0,1,Left
+d0190e57,1,Right,0.0,Not Affected,0,1,Right
+d0eb10f9,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+d10f8a9b,0,Not Affected,1.0,Left,0,0,Not Affected
+d36e553f,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+d3cb78bf,0,Not Affected,1.0,Left,0,0,Not Affected
+d502dcc5,1,Left,0.0,Not Affected,0,0,Not Affected
+d5401554,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+d54d9619,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+d6138f8d,0,Not Affected,0.0,Not Affected,1,1,Right
+d7bd642b,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+d81c2852,0,Not Affected,0.0,Not Affected,0,1,Right
+d835e911,1,Left,0.0,Not Affected,0,1,Left
+da08154d,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+db8460a3,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+dc9f2813,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+dde4dacc,0,Not Affected,1.0,Right,0,0,Not Affected
+de80b4f9,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+e04bae98,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+e1d57e22,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+e22765b1,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+e281ee19,1,Left,0.0,Not Affected,1,1,Left
+e2bdbe82,1,Left,1.0,Bilateral,0,1,Left
+e3466a4a,0,Not Affected,0.0,Not Affected,0,0,Not Affected
+e3849086,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+e3960e66,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+e408cea5,0,Not Affected,0.0,Not Affected,0,0,Not Affected
+e4914b26,0,Not Affected,0.0,Not Affected,0,1,Right
+e5167a0d,1,Left,1.0,Bilateral,0,1,Left
+e5922fd0,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+e7955264,0,Not Affected,0.0,Not Affected,0,1,Left
+e7d4ada9,0,Not Affected,0.0,Not Affected,0,0,Not Affected
+e830acde,1,Right,0.0,Not Affected,0,0,Not Affected
+e8f77425,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+e9588bde,1,Left,0.0,Not Affected,0,0,Not Affected
+ead6d26a,1,Left,0.0,Not Affected,0,0,Not Affected
+eb0803e5,0,Not Affected,0.0,Not Affected,0,1,Left
+eb5675d6,0,Not Affected,0.0,Not Affected,0,1,Left
+eb6520ef,1,Right,0.0,Not Affected,0,0,Not Affected
+eb6f1ab8,0,Not Affected,0.0,Not Affected,0,1,Left
+ec04fafa,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+ec94a9a5,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+ed78f3bc,1,Right,0.0,Not Affected,0,1,Right
+ee02be9d,0,Not Affected,0.0,Not Affected,0,1,Right
+f088417c,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+f10e8dd1,0,Not Affected,1.0,Right,0,0,Not Affected
+f2349fed,1,Left,0.0,Not Affected,0,0,Not Affected
+f268d802,0,Not Affected,0.0,Not Affected,0,1,Right
+f3ed7889,1,Right,0.0,Not Affected,0,0,Not Affected
+f57a5eee,0,Not Affected,0.0,Not Affected,0,1,Right
+f6b24656,1,Left,0.0,Not Affected,0,0,Not Affected
+f6e4d410,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+f7678dad,0,Not Affected,0.0,Not Affected,0,0,Not Affected
+f77f7519,0,Not Affected,0.0,Not Affected,0,1,Left
+f7dd1303,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+f84bd5dc,0,Not Affected,0.0,Not Affected,0,0,Not Affected
+f8973e2b,0,Not Affected,0.0,Not Affected,0,1,Left
+fa1f4978,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+faed6e6a,0,Not Affected,1.0,Right,1,1,Left
+fb582b5f,0,Not Affected,0.0,Not Affected,0,1,Left
+fb5e9203,0,Not Affected,0.0,Not Affected,1,1,Right
+fb7ba0cc,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+fc77771c,0,Not Affected,1.0,Right,0,0,Not Affected
+fcda3c93,0,Not Affected,0.0,Not Affected,0,1,Right
+fd8c894b,1,Left,0.0,Not Affected,0,0,Not Affected
+fe5b34f2,0,Not Affected,0.0,Not Affected,0,1,Left
+fed81b27,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+ff2c5939,0,Not Affected,0.0,Not Affected,0,1,Left
+sub-00223b5a,0,Not Affected,1.0,Right,0,1,Right
+sub-003d54e0,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+sub-00f0ea23,1,Right,0.0,Not Affected,0,0,Not Affected
+sub-01b2897a,0,Not Affected,0.0,Not Affected,0,1,Left
+sub-0522f021,1,Right,0.0,Not Affected,0,1,Right
+sub-05c53a88,0,Not Affected,1.0,Right,0,0,Not Affected
+sub-09bf7e7b,0,Not Affected,0.0,Not Affected,0,1,Right
+sub-10f21b45,1,Left,1.0,Bilateral,1,1,Bilateral
+sub-148bb4c8,1,Left,0.0,Not Affected,0,0,Not Affected
+sub-1b7deaf6,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+sub-1bef91ff,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+sub-1c72de90,0,Not Affected,1.0,Right,0,0,Not Affected
+sub-1e9e8d3a,1,Right,0.0,Not Affected,0,0,Not Affected
+sub-2b0d6db7,0,Not Affected,1.0,Right,0,0,Not Affected
+sub-2bd4552c,1,Left,0.0,Not Affected,0,0,Not Affected
+sub-2c1ae914,1,Bilateral,1.0,Bilateral,0,0,Not Affected
+sub-2dc83565,1,Right,0.0,Not Affected,0,0,Not Affected
+sub-2dcc3af6,1,Right,0.0,Not Affected,0,1,Right
+sub-33a58619,1,Left,0.0,Not Affected,0,0,Not Affected
+sub-34a96076,0,Not Affected,1.0,Bilateral,1,0,Not Affected
+sub-352ed811,1,Left,0.0,Not Affected,0,1,Right
+sub-3fcf7bcc,1,Left,1.0,Bilateral,0,0,Not Affected
+sub-3fff8a37,0,Not Affected,0.0,Not Affected,1,1,Left
+sub-43adc3a1,0,Not Affected,1.0,Right,0,0,Not Affected
+sub-443ecd75,1,Left,0.0,Not Affected,0,0,Not Affected
+sub-4561487c,0,Not Affected,1.0,Right,0,0,Not Affected
+sub-472be8f4,1,Right,0.0,Not Affected,0,0,Not Affected
+sub-4aef5e8a,0,Not Affected,1.0,Bilateral,0,0,Not Affected
+sub-4b1dc6a2,0,Not Affected,1.0,Left,0,0,Not Affected
+sub-4c8a2ae8,0,Not Affected,1.0,Right,0,0,Not Affected
+sub-4e3792bb,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+sub-50760d78,0,Not Affected,0.0,Not Affected,0,0,Not Affected
+sub-5a71d28f,0,Not Affected,0.0,Not Affected,1,1,Right
+sub-5d7ebfdd,0,Not Affected,0.0,Not Affected,0,0,Not Affected
+sub-5ff60deb,0,Not Affected,1.0,Left,0,0,Not Affected
+sub-6ce9b5f4,0,Not Affected,1.0,Left,0,0,Not Affected
+sub-6ddb64d2,0,Not Affected,0.0,Not Affected,0,0,Not Affected
+sub-6f16659c,1,Right,0.0,Not Affected,0,0,Not Affected
+sub-6fd74918,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+sub-71e8fcb4,0,Not Affected,1.0,Right,0,0,Not Affected
+sub-7476b6ad,1,Right,0.0,Not Affected,0,0,Not Affected
+sub-76a4d70c,1,Left,1.0,Left,0,0,Not Affected
+sub-7b5f527f,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+sub-7c8c89c8,1,Left,1.0,Right,0,0,Not Affected
+sub-7e8a97ab,1,Right,0.0,Not Affected,0,1,Right
+sub-7fc2a674,1,Right,0.0,Not Affected,0,0,Not Affected
+sub-80a3a66e,0,Not Affected,1.0,Right,0,0,Not Affected
+sub-837c379f,1,Right,1.0,Bilateral,0,0,Not Affected
+sub-8846bb12,1,Right,0.0,Not Affected,0,0,Not Affected
+sub-8b3063f2,1,Left,0.0,Not Affected,0,1,Left
+sub-8b7386e7,1,Left,1.0,Bilateral,0,0,Not Affected
+sub-8b9d4df0,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+sub-8c2ab32b,1,Right,0.0,Not Affected,0,1,Right
+sub-8c79c2a2,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+sub-8da2aca9,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+sub-8e38f158,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+sub-8ebbb476,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+sub-8fc3266d,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+sub-934e1f2a,0,Not Affected,1.0,Left,0,0,Not Affected
+sub-94f52756,1,Right,0.0,Not Affected,0,0,Not Affected
+sub-95ce16f6,1,Left,0.0,Not Affected,0,1,Left
+sub-9df0d948,1,Left,1.0,Bilateral,0,0,Not Affected
+sub-a183fff7,0,Not Affected,1.0,Right,0,0,Not Affected
+sub-a1f7aa54,1,Left,0.0,Not Affected,0,0,Not Affected
+sub-b48c3220,1,Left,0.0,Not Affected,0,1,Left
+sub-b8bd694f,1,Left,0.0,Not Affected,0,0,Not Affected
+sub-bc4d3eb9,1,Left,0.0,Not Affected,0,1,Left
+sub-be352a8b,1,Left,0.0,Not Affected,0,1,Left
+sub-c969b1fd,1,Right,0.0,Not Affected,0,1,Right
+sub-ce2df0cf,1,Left,0.0,Not Affected,0,0,Not Affected
+sub-d9562a92,0,Not Affected,1.0,Left,0,0,Not Affected
+sub-e08b676e,1,Bilateral,0.0,Not Affected,1,1,Bilateral
+sub-e49bcd6f,1,Right,1.0,Right,0,1,Right
+sub-e72ac606,0,Not Affected,0.0,Not Affected,1,0,Not Affected
+sub-f638548b,0,Not Affected,1.0,Bilateral,0,0,Not Affected
+sub-f6931f95,1,Left,0.0,Not Affected,0,0,Not Affected
+sub-f9ab2632,0,Not Affected,1.0,Left,0,0,Not Affected
+sub-feca3468,0,Not Affected,0.0,Not Affected,0,0,Not Affected
